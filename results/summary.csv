@@ -1,0 +1,14 @@
+quantity,value,unit
+transfer_semi_major_axis,1.2618395000,AU
+transfer_time,258.8657588951,days
+required_phase_angle,44.3441710656,degrees
+synodic_period,779.9494463021,days
+earth_departure_v_infinity,2.9446892564,km/s
+mars_arrival_v_infinity,2.6488952292,km/s
+leo_departure_delta_v,3.5899783646,km/s
+mars_capture_delta_v,2.0906391650,km/s
+total_impulsive_delta_v,5.6806175297,km/s
+numerical_arrival_miss,0.000012,km
+maximum_relative_energy_error,2.846e-14,dimensionless
+maximum_relative_angular_momentum_error,7.791e-15,dimensionless
+

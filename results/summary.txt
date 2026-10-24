@@ -1,0 +1,16 @@
+EARTH--MARS HOHMANN TRANSFER STUDY
+=================================
+
+Transfer semi-major axis:    1.2618395000 AU
+Transfer time:               258.8657588951 days
+Required Mars phase angle:   44.3441710656 deg
+Earth--Mars synodic period:  779.9494463021 days
+Earth departure v-infinity:  2.9446892564 km/s
+Mars arrival v-infinity:     2.6488952292 km/s
+LEO departure delta-v:       3.5899783646 km/s
+Mars capture delta-v:        2.0906391650 km/s
+Total impulsive delta-v:     5.6806175297 km/s
+Numerical arrival miss:      0.000012 km
+Maximum relative energy error:     2.846e-14
+Maximum relative momentum error:   7.791e-15
+
